@@ -1,0 +1,5 @@
+com\sj\controller\sys\UserController.class
+com\sj\SmartJConfig.class
+com\sj\controller\index\IndexController.class
+com\sj\vo\common\OperateResult.class
+com\sj\entity\sys\User.class
